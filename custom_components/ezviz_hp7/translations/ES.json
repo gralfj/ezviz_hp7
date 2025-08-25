@@ -1,0 +1,20 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Collega EZVIZ HP7",
+        "description": "Introduzca sus credencialse y región."
+      },
+      "pick_serial": {
+        "title": "Seleccione dispositivo",
+        "description": "Seleccione el #serie de su HP7."
+      }
+    },
+    "error": {
+      "auth": "Error al iniciar sesión. Verifique las credenciales y la región."
+    },
+    "abort": {
+      "no_devices": "No se encontraron dispositivos en la cuenta."
+    }
+  }
+}
